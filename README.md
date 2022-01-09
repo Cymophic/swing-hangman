@@ -1,4 +1,4 @@
-# 🕴️ Hangman Game 🖥️
+# 🕴️ Hangman Game 👁️
 
 A simple hangman game with GUI created using Java Swing for project purposes.
 
