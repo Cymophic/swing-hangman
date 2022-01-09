@@ -13,7 +13,7 @@ Feel free to test out the game by opening the .exe file.
 - W/L count tracker.
 - On-screen keyboard.
 - Visual hangman progression.
-- More words of varying difficulties.
+- 5 word banks containing words of varying difficulties.
 - Error messages.
 - Secret cheat phrases.
 - GUI audio.
