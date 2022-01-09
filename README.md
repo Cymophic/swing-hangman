@@ -11,7 +11,7 @@ Feel free to test out the game by opening the .exe file.
 - Custom resume, new game, and exit buttons with functions & hover effects. 
 - Menu bar with home, and new game/restart buttons.
 - W/L count tracker.
-- On-screen keyboard.
+- Optional on-screen keyboard.
 - Visual hangman progression.
 - 5 word banks containing words of varying difficulties.
 - Error messages.
