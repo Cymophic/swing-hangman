@@ -19,6 +19,7 @@ Feel free to test out the game by opening the .exe file.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/97153344/148668694-0ab61d05-a136-4879-8133-4f33d48ba4ce.png)
-![image](https://user-images.githubusercontent.com/97153344/148668732-fa3f4fee-a086-419a-a482-29bfb7fe17d4.png)
+![image](https://user-images.githubusercontent.com/97153344/148668756-71d9cb2e-a86b-4a54-91b6-47ca9363ad1e.png)
 ![image](https://user-images.githubusercontent.com/97153344/148668739-dbad315f-0aa4-497f-9066-362b1d6be227.png)
+![image](https://user-images.githubusercontent.com/97153344/148668768-f6387f3a-4f6e-4d98-b9b4-ce7f7cbccb42.png)
 
